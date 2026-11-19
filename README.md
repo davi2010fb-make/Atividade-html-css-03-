@@ -1,5 +1,4 @@
 # Atividade-html-css-03-
-# atividade-html-css-01
 
 # 📝 Entrega do Exercício 03 - Programação Web
 
